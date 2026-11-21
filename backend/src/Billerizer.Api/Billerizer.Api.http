@@ -1,0 +1,6 @@
+@HOST = http://localhost:5283
+
+GET {{HOST}}/api/forecast/
+Accept: application/json
+
+###
